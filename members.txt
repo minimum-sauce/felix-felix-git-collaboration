@@ -4,4 +4,8 @@ Epost: felix.ljungkvist.7580@student.uu.se
 
 User on github: Adar10
 Namn: Adar Dönmez
-Epost: adar.donmez.addo9517@student.uu.se 
+Epost: adar.donmez.9517@student.uu.se 
+
+User on github: klintskar
+Namn: Jacob Klintskär
+Epost jacob.klintskar.5613@student.uu.se
